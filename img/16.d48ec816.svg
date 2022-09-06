@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33.894337"
+   height="53.467106"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Kaktovik_digit_16.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs8" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4669"
+     style="fill:#000000;fill-opacity:1;stroke:#000026;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.86370325;stroke-dasharray:none;stroke-opacity:1"
+     d="M 8.4217821,23.349807 C 13.825789,20.704478 27.205809,18.512466 27.205809,18.512466 V 15.715162 L 12.276447,11.256491 27.735129,8.1191428 c 2.15467,-1.248 2.15467,-4.119987 2.15467,-4.119987 -1.81466,2.531981 -21.9973389,5.216012 -22.6773519,6.4626522 v 1.89067 l 13.8706779,4.534677 c 0,0 -14.3626589,4.346646 -17.0839949,4.459994 2.797342,1.814665 10.6213419,26.192013 11.9439879,26.758678 0.982677,1.058645 1.92669,1.285341 4.308019,1.36131 -4.233335,-4.27064 -4.8,-8.882646 -11.8293549,-26.11733 z" />
+</svg>
